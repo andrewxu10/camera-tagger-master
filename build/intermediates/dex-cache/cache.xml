@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/classes-1463cd2d9341409b382dd70b5f468487db01ea76.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/classes-cd8c1b7511cefa60f8b9e1f51f9262d8d478fc03.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-08daa393a6736572abc4ebe30ed2a5a723fcc793.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-8839ec02b83008afe80e40dc0457fa1140bbb509.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/gson-2.3.1-7e39859aa383364081ff6d09c33ca39c361756c6.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/classes-4ed285ee135b6f0336446cc12e7c59b046519e86.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/classes-0de0468a88d9e08bb7364989ced30a04536515b9.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-dff141b8460d31cd3ed21fb28d8a578629e4c422.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/.gradle/caches/modules-2/files-2.1/com.clarifai/clarifai-api-java/1.2.0/beeed9cff42edad3f6e103dd409e80da9825a6d1/clarifai-api-java-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="beeed9cff42edad3f6e103dd409e80da9825a6d1">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/clarifai-api-java-1.2.0-e1f9e99d7f880960c66188d0563b9fa413ba59f1.jar" />
+    </item>
+    <item
+        jar="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/Andrew/Desktop/camera-tagger-master/Application/build/intermediates/pre-dexed/debug/classes-04c6643736018365f60e312386fa4a9bc39cd095.jar" />
+    </item>
+
+</items>
